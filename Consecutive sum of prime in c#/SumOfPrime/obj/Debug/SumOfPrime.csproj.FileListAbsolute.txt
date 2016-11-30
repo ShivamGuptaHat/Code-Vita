@@ -1,0 +1,24 @@
+E:\Code Vita Quetion\SumOfPrime\SumOfPrime\bin\Debug\SumOfPrime.exe.config
+E:\Code Vita Quetion\SumOfPrime\SumOfPrime\bin\Debug\SumOfPrime.exe
+E:\Code Vita Quetion\SumOfPrime\SumOfPrime\bin\Debug\SumOfPrime.pdb
+E:\Code Vita Quetion\SumOfPrime\SumOfPrime\obj\Debug\SumOfPrime.csprojResolveAssemblyReference.cache
+E:\Code Vita Quetion\SumOfPrime\SumOfPrime\obj\Debug\SumOfPrime.exe
+E:\Code Vita Quetion\SumOfPrime\SumOfPrime\obj\Debug\SumOfPrime.pdb
+E:\Code Vita Quetion\Consecutive sum of prime\SumOfPrime\bin\Debug\SumOfPrime.exe.config
+E:\Code Vita Quetion\Consecutive sum of prime\SumOfPrime\obj\Debug\SumOfPrime.exe
+E:\Code Vita Quetion\Consecutive sum of prime\SumOfPrime\obj\Debug\SumOfPrime.pdb
+E:\Code Vita Quetion\Consecutive sum of prime\SumOfPrime\bin\Debug\SumOfPrime.exe
+E:\Code Vita Quetion\Consecutive sum of prime\SumOfPrime\bin\Debug\SumOfPrime.pdb
+E:\Code Vita Quetion\Consecutive sum of prime\SumOfPrime\obj\Debug\SumOfPrime.csprojResolveAssemblyReference.cache
+E:\Advance Programming\Codevita\Consecutive sum of prime\SumOfPrime\bin\Debug\SumOfPrime.exe.config
+E:\Advance Programming\Codevita\Consecutive sum of prime\SumOfPrime\obj\Debug\SumOfPrime.exe
+E:\Advance Programming\Codevita\Consecutive sum of prime\SumOfPrime\obj\Debug\SumOfPrime.pdb
+E:\Advance Programming\Codevita\Consecutive sum of prime\SumOfPrime\bin\Debug\SumOfPrime.exe
+E:\Advance Programming\Codevita\Consecutive sum of prime\SumOfPrime\bin\Debug\SumOfPrime.pdb
+E:\Advance Programming\Codevita\Consecutive sum of prime\SumOfPrime\obj\Debug\SumOfPrime.csprojResolveAssemblyReference.cache
+E:\Codes\Codevita\Consecutive sum of prime in c#\SumOfPrime\bin\Debug\SumOfPrime.exe.config
+E:\Codes\Codevita\Consecutive sum of prime in c#\SumOfPrime\obj\Debug\SumOfPrime.exe
+E:\Codes\Codevita\Consecutive sum of prime in c#\SumOfPrime\obj\Debug\SumOfPrime.pdb
+E:\Codes\Codevita\Consecutive sum of prime in c#\SumOfPrime\bin\Debug\SumOfPrime.exe
+E:\Codes\Codevita\Consecutive sum of prime in c#\SumOfPrime\bin\Debug\SumOfPrime.pdb
+E:\Codes\Codevita\Consecutive sum of prime in c#\SumOfPrime\obj\Debug\SumOfPrime.csprojResolveAssemblyReference.cache
